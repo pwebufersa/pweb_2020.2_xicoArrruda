@@ -1,2 +1,3 @@
-# pweb_2020.2_xicoArrruda
- Meu repositório da diciplina de PWeb 2020.2
+# Repositório de Xico Arruda - PWeb 2020.2
+
+Que comece o babado delicinha.
