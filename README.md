@@ -1,7 +1,7 @@
 # Repositório PWeb 2020.2
 
 ToDo da aula de 26/02/2021:
-1. Crie sua conta no GitHub (escolha um nome profissional).
+1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa69 é um mal exemplo).
 2. Baixe o [GitHub Desktop](https://desktop.github.com/).
 3. Configure o GitHub Desktop com a conta criada.
 4. Crie o repositório no formato **pweb_2020.2_primeironomeSegundonome** (ex.: pweb_2020.2_franciscoArruda). Decida se ele ficará público ou privado.
