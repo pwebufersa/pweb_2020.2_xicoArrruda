@@ -1,6 +1,6 @@
 # Repositório PWeb 2020.2
 
-ToDo da aula de 26/02/2021:
+ToDo da aula de 26/02/2021 (vale 1 ponto, de 5 pontos da unidade 1):
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
 2. Baixe o [GitHub Desktop](https://desktop.github.com/).
 3. Configure o GitHub Desktop com a conta criada.
