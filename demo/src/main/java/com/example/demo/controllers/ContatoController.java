@@ -4,17 +4,18 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.example.demo.domain.models.Contato;
 import com.example.demo.repositories.ContatoRepositorio;
 
-@RestController
+//@RestController
+@Controller
 @RequestMapping("/agenda")
 public class ContatoController {
 
@@ -49,9 +50,9 @@ public class ContatoController {
 	}
 	
 	@PostMapping("/adicionaContato")
-	public ModelAndView salvar(Contato contato) {
+	public String salvar(Contato contato) {
 		this.contatoRepo.save(contato);
-		return new ModelAndView("redirect:/agenda");
+		return "redirect:/agenda/listaContatos";
 	}
 	
 	@GetMapping(path = { "/{id}" })
