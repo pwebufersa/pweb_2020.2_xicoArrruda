@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Adicionar contato utilizando o Spring Boot</title>
+</head>
+
+<body>
+	<form method="POST" th:object="${contato}" th:action="@{/agenda/adicionaContato}">
+		<div class="form-group">
+			<input type="text" class="form-control" placeholder="Nome" th:field="*{nome}"/>
+			<input type="text" class="form-control" placeholder="Email" th:field="*{email}"/>
+			<input type="text" class="form-control" placeholder="Telefone" th:field="*{telefone}"/>
+			<button type="submit" class="btn btn-primary">Adicionar Contato</button>
+		</div>
+	</form>
+</body>
+</html>
+
+

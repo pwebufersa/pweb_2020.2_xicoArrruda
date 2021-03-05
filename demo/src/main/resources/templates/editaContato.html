@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Editar contato utilizando o Spring Boot</title>
+</head>
+
+<body>
+
+<form action="#" 
+  th:action="@{/agenda/editar/{id}(id=${contato.id})}" 
+  th:object="${contato}" 
+  method="POST">
+    <label for="nome">Nome</label>
+    <input type="text" th:field="*{nome}" id="nome" placeholder="Nome">
+    <label for="email">Email</label>
+    <input type="text" th:field="*{email}" id="email" placeholder="Email">
+    <label for="telefone">Telefone</label>
+    <input type="text" th:field="*{telefone}" id="telefone" placeholder="Telefone">
+    <input type="submit" value="Editar">   
+</form>
