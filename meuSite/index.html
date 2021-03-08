@@ -5,21 +5,69 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta codigoSecreto="123secret">
+    <link rel="stylesheet" href="style/style.css">
     <title>Meu site de PWeb</title>
 </head>
 <body>
+    <ul>
+        <li><a class="active" href="index.html">Início</a></li>
+        <li><a href="noticias.html">Noticias</a></li>
+        <li><a href="contato.html">Contato</a></li>
+        <li style="float:right"><a href="sobre.html">Sobre</a></li>
+    </ul>
+
     <h1>Minha manchete sensacionalista!</h1>
-    <h2>Minha manchete sensacionalista!</h2>
-    <h3>Minha manchete sensacionalista!</h3>
     <p>
-        <img    src="agua.jpg"
+        <img    src="images/agua.jpg"
                 alt="Agua pelo amor de deus!"
                 title="Agua gelada!">
     </p>
     <hr />
-    <p>
-        Meu parágrafo 1.
-    </p>
+    <p>Exemplo de formulário:</p>
+    <form action="sucesso.html" method="get">
+        <!--Input do login-->
+        <p>
+            Login:<input type="text" placeholder="Seu Nome Completo">
+        </p>
+        <!--Input da senha-->
+        <p>
+            Senha:<input type="password" placeholder="Sua senha">
+        </p>
+
+        <p>
+            Comida:
+        </p>
+        <p>
+            <input type="checkbox" name="comida" value="Coxinha">
+                Coxinha
+        </p> 
+        <p>
+        <input type="checkbox" name="comida" value="Pastel">
+                Pastel
+        </p>
+
+        <p>
+            Sexo:
+        </p>
+        <p>
+            <input type="radio" name="sexo" value="Masculino">
+                Masculino
+        </p> 
+        <p>
+            <input type="radio" name="sexo" value="Feminino">
+                Feminino
+        </p>
+        <p>
+            <input type="radio" name="sexo" value="undefined">
+                Não informar
+        </p> 
+
+        <!--Botão para o action-->
+        <input type="submit" value="Vai!">
+        <!--Botão para limpar-->
+        <input type="reset" value="Limpa">
+    </form>
+
 </body>
 
 </html>
