@@ -17,7 +17,7 @@
 
 ## (1,0 ponto) Exercício - De 05/03/2021 até 15/03/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
-Exercício
+Haverá um exercício aqui.
 
 ## (1,0 ponto) Exercício - De 12/03/2021 até 22/03/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
