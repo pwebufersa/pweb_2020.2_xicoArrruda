@@ -18,7 +18,7 @@
 ## (1,0 ponto) Exercício 2 - De 05/03/2021 até 15/03/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
 1. Opcional - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
-2. Fazendo o passo 2.
+2. Fazendo o passo 2 - https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_vertical_fixed
 
 ## (1,0 ponto) Exercício 3 - De 12/03/2021 até 22/03/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
