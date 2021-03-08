@@ -17,11 +17,11 @@
 ## (1,0 ponto) Exercício - De 05/03/2021 até 15/03/2021:
 Exercício
 
-## (1,0 ponto) Exercício - Aula de 12/03/2021:
+## (1,0 ponto) Exercício - De 12/03/2021 até 22/03/2021:
 Exercício
 
-## (1,0 ponto) Exercício - Aula de 19/03/2021:
+## (1,0 ponto) Exercício -  De 19/03/2021 até 29/03/2021:
 Exercício
 
-## (1,0 ponto) Exercício - Aula de 26/03/2021:
+## (1,0 ponto) Exercício - De 26/03/2021 até 05/04/2021:
 Exercício
