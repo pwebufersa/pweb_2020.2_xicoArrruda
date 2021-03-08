@@ -1,6 +1,6 @@
 # Repositório PWeb 2020.2
 
-## (1,0 ponto) Exercício - De 26/02/2021 até 08/03/2020:
+## (1,0 ponto) Exercício 1 - De 26/02/2021 até 08/03/2020:
 ### [Vídeo explicando o exercício](https://drive.google.com/file/d/177qYyERrz854K49x97Y9arLVTyPMPgU6/view?usp=sharing) (use a conta @alunos.ufersa)
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
 2. Baixe o [GitHub Desktop](https://desktop.github.com/).
@@ -15,18 +15,18 @@
 10. Coloque o seu código secreto no site como dado "meta" no head do index.html. O código secreto foi enviado para seu e-Mail institucional.
 11. Faça o commit do site e sincronize-o com o repositório remoto.
 
-## (1,0 ponto) Exercício - De 05/03/2021 até 15/03/2021:
+## (1,0 ponto) Exercício 2 - De 05/03/2021 até 15/03/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
 Haverá um exercício aqui.
 
-## (1,0 ponto) Exercício - De 12/03/2021 até 22/03/2021:
+## (1,0 ponto) Exercício 3 - De 12/03/2021 até 22/03/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
 Haverá um exercício aqui.
 
-## (1,0 ponto) Exercício -  De 19/03/2021 até 29/03/2021:
+## (1,0 ponto) Exercício 4 -  De 19/03/2021 até 29/03/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
 Haverá um exercício aqui.
 
-## (1,0 ponto) Exercício - De 26/03/2021 até 05/04/2021:
+## (1,0 ponto) Exercício 5 - De 26/03/2021 até 05/04/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
 Haverá um exercício aqui.
