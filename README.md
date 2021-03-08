@@ -1,6 +1,6 @@
 # Repositório PWeb 2020.2
 
-ToDo da aula de 26/02/2021 (vale 1 ponto, de 5 pontos da unidade 1):
+## (1,0 ponto) Exercício - De 26/02/2021 até 08/03/2020:
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
 2. Baixe o [GitHub Desktop](https://desktop.github.com/).
 3. Configure o GitHub Desktop com a conta criada.
@@ -13,3 +13,15 @@ ToDo da aula de 26/02/2021 (vale 1 ponto, de 5 pontos da unidade 1):
 9. Crie o primeiro site de acordo com a Aula 1 do dia 26/02/2020.
 10. Coloque o seu código secreto no site como dado "meta" no head do index.html. O código secreto foi enviado para seu e-Mail institucional.
 11. Faça o commit do site e sincronize-o com o repositório remoto.
+
+## (1,0 ponto) Exercício - De 05/03/2021 até 15/03/2021:
+Exercício
+
+## (1,0 ponto) Exercício - Aula de 12/03/2021:
+Exercício
+
+## (1,0 ponto) Exercício - Aula de 19/03/2021:
+Exercício
+
+## (1,0 ponto) Exercício - Aula de 26/03/2021:
+Exercício
