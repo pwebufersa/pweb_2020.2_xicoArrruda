@@ -17,7 +17,7 @@
 
 ## (1,0 ponto) Exercício 2 - De 05/03/2021 até 15/03/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
-1. Opcional - Adicione a conta **monitoriaPWeb** como colaborador do repositório.
+1. Opcional - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
 2. Fazendo o passo 2.
 
 ## (1,0 ponto) Exercício 3 - De 12/03/2021 até 22/03/2021:
