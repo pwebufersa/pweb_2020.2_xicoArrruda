@@ -2,7 +2,7 @@
 
 
 ## (1,0 ponto) Exercício 1 - De 26/02/2021 até 08/03/2020:
-### [Vídeo explicando o exercício](https://drive.google.com/file/d/177qYyERrz854K49x97Y9arLVTyPMPgU6/view?usp=sharing) (use a conta @alunos.ufersa)
+### [Vídeo explicando o exercício 1](https://drive.google.com/file/d/177qYyERrz854K49x97Y9arLVTyPMPgU6/view?usp=sharing) (use a conta @alunos.ufersa)
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
 2. Baixe o [GitHub Desktop](https://desktop.github.com/).
 3. Configure o GitHub Desktop com a conta criada.
@@ -18,15 +18,16 @@
 
 
 ## (2,0 pontos) Exercício 2 - De 05/03/2021 até 22/03/2021:
-### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
+### [Vídeo explicando o exercício 2](https://drive.google.com/file/d/177qYyERrz854K49x97Y9arLVTyPMPgU6/view?usp=sharing) (use a conta @alunos.ufersa)
 1. Opcional - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
 2. O professor adicionou 3 pastas no seu repositório: exercicio1, exercicio2 e siteDeAjuda.
-3. Você deverá codificar, usando HTML e CSS, todo o site do exercício. São 8 páginas .html, 1 pasta de imagens e 1 pasta com o style.css
-4. O siteDeAjuda é um pontapé inicial, que contém os nomes de todos os arquivos que você deve criar e pode te ajudar a estilizar o site com CSS.
-5. A arquitetura do site foi pensada previamente. Veja o vídeo desse tópico e confira se a navegação do seu site está de acordo.
+3. Você deverá codificar, usando HTML e CSS, todo o site do exercício 2. São 8 páginas .html, 1 pasta de imagens e 1 pasta com o style.css
+4. O siteDeAjuda é um pontapé, contém os nomes de todos os arquivos que você deve criar e pode te ajudar a estilizar o site com CSS.
+5. A arquitetura do site foi pensada previamente. Veja o vídeo e confira se a navegação do seu site está de acordo.
 6. Seu site deverá ser diferente do siteDeAjuda e do exercicio2. O professor enviou, por e-mail, o codigoSecreto do exercício 2, os sites de notícias que você deve exibir e a cor do menu e botões.
-7. Conforme for avançando, faça o commit do site e sincronize-o com o repositório remoto. O monitor também poderá ajudar. Boa sorte!
+7. Conforme for avançando, faça o commit do site e sincronize-o com o repositório remoto. O monitor também poderá ajudar.
+8. Boa sorte!
 
 ## (2,0 ponto) Exercício 3 -  De 22/03/2021 até 29/03/2021:
-### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
+### [Vídeo explicando o exercício 3](#) (use a conta @alunos.ufersa)
 Haverá um exercício aqui.
