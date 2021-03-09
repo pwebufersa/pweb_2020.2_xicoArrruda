@@ -7,3 +7,4 @@ O site que você deve imitar estão na pasta exercicio2, na raíz do seu reposit
 Outras instruções podem ser encontradas [no repositório da disciplina](https://github.com/pwebufersa/pweb_2020.2_xicoArrruda/).
 
 Bom desempenho!
+

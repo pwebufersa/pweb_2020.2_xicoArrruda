@@ -1,5 +1,6 @@
 # Repositório PWeb 2020.2
 
+
 ## (1,0 ponto) Exercício 1 - De 26/02/2021 até 08/03/2020:
 ### [Vídeo explicando o exercício](https://drive.google.com/file/d/177qYyERrz854K49x97Y9arLVTyPMPgU6/view?usp=sharing) (use a conta @alunos.ufersa)
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
@@ -15,19 +16,17 @@
 10. Coloque o seu código secreto no site como dado "meta" no head do index.html. O código secreto foi enviado para seu e-Mail institucional.
 11. Faça o commit do site e sincronize-o com o repositório remoto.
 
-## (1,0 ponto) Exercício 2 - De 05/03/2021 até 15/03/2021:
+
+## (2,0 pontos) Exercício 2 - De 05/03/2021 até 22/03/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
 1. Opcional - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
-2. Fazendo o passo 2 - https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_vertical_fixed
+2. O professor adicionou 2 pastas no seu repositório: exercicio2 e siteExemplo.
+3. Você deverá codificar, usando html e css, todo o site do exercício. São 8 páginas .html, 1 pasta de imagens e 1 pasta com style.css
+4. O siteExemplo contém os nomes de todos os arquivos que você deve criar, e contém também uma ajuda para estilizar o site.
+5. A arquitetura do site foi pensada antes. Veja o vídeo desse tópico e confira se a navegação está de acordo.
+6. Seu site deverá ser diferente do siteExemplo e do exercicio2. O professor enviou, por e-mail, o codigoSecreto do exercício 2, os sites de notícias que você deve exibir e a cor do menu e botões.
 
-## (1,0 ponto) Exercício 3 - De 12/03/2021 até 22/03/2021:
-### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
-Haverá um exercício aqui.
 
-## (1,0 ponto) Exercício 4 -  De 19/03/2021 até 29/03/2021:
-### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
-Haverá um exercício aqui.
-
-## (1,0 ponto) Exercício 5 - De 26/03/2021 até 05/04/2021:
+## (2,0 ponto) Exercício 3 -  De 22/03/2021 até 29/03/2021:
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
 Haverá um exercício aqui.
