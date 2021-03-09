@@ -18,7 +18,7 @@
 
 
 ## (2,0 pontos) Exercício 2 - De 05/03/2021 até 22/03/2021:
-### [Vídeo explicando o exercício 2](https://drive.google.com/file/d/177qYyERrz854K49x97Y9arLVTyPMPgU6/view?usp=sharing) (use a conta @alunos.ufersa)
+### [Vídeo explicando o exercício 2](https://drive.google.com/file/d/1xhuvD5pK-Aa0L3l00svK3x6H4T-Br1V9/view?usp=sharing) (use a conta @alunos.ufersa)
 1. Opcional - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
 2. O professor adicionou 3 pastas no seu repositório: exercicio1, exercicio2 e siteDeAjuda.
 3. Você deverá codificar, usando HTML e CSS, todo o site do exercício 2. São 8 páginas .html, 1 pasta de imagens e 1 pasta com o style.css
