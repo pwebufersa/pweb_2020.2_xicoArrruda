@@ -21,7 +21,7 @@
 ### [Vídeo explicando o exercício](#) (use a conta @alunos.ufersa)
 1. Opcional - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
 2. O professor adicionou 2 pastas no seu repositório: exercicio2 e siteExemplo.
-3. Você deverá codificar, usando html e css, todo o site do exercício. São 8 páginas .html, 1 pasta de imagens e 1 pasta com style.css
+3. Você deverá codificar, usando html e css, todo o site do exercício. São 8 páginas .html, 1 pasta de imagens e 1 pasta com o style.css
 4. O siteExemplo contém os nomes de todos os arquivos que você deve criar, e contém também uma ajuda para estilizar o site.
 5. A arquitetura do site foi pensada antes. Veja o vídeo desse tópico e confira se a navegação está de acordo.
 6. Seu site deverá ser diferente do siteExemplo e do exercicio2. O professor enviou, por e-mail, o codigoSecreto do exercício 2, os sites de notícias que você deve exibir e a cor do menu e botões.
