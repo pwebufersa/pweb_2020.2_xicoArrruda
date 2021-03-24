@@ -1,6 +1,6 @@
 # Repositório PWeb 2020.2
 
-# Unidade 1
+# Unidade 1 - CRUD do Cadastro de Pessoas
 ## (1,0 ponto) U1 - Exercício 1 - De 26/02/2021 até 08/03/2020:
 ### [Vídeo explicando o exercício 1](https://drive.google.com/file/d/177qYyERrz854K49x97Y9arLVTyPMPgU6/view?usp=sharing) (use a conta @alunos.ufersa)
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
@@ -33,12 +33,13 @@
 1 - Faça as funcionalidades CRUD do exercício 2 usando Spring.
 
 
-# Unidade 2
+# Unidade 2 - Primeira parte do projeto da disciplina
 ## (5,0 pontos) U2 - Exercícios -  De ??/??/2021 até ??/??/2021:
 ### [Vídeo explicando a Unidade 2](#) (use a conta @alunos.ufersa)
 1 - Milestone 1 (User Story 1, User Story 2, User Story ?,...)
 
-# Unidade 3
+
+# Unidade 3 - Segunda parte do projeto da disciplina
 ## (5,0 pontos) U3 - Exercícios -  De ??/??/2021 até ??/??/2021:
 ### [Vídeo explicando a Unidade 3](#) (use a conta @alunos.ufersa)
 1 - Milestone 2 (User Story ?, User Story ?+1, User Story ?+2,...)
