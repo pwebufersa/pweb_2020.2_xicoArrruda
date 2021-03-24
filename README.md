@@ -28,7 +28,7 @@
 7. Conforme for avançando, faça o commit do site e sincronize-o com o repositório remoto. O monitor também poderá ajudar.
 8. Boa sorte!
 
-## (2,0 ponto) Exercício 3 -  De 22/03/2021 até 29/03/2021:
+## (2,0 ponto) Exercício 3 -  De 29/03/2021 até 11/04/2021:
 ### [Vídeo explicando o exercício 3](#) (use a conta @alunos.ufersa)
 1 - Faça as funcionalidades CRUD do exercício 2 usando Spring.
 
