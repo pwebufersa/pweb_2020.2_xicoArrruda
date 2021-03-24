@@ -28,18 +28,18 @@
 7. Conforme for avançando, faça o commit do site e sincronize-o com o repositório remoto. O monitor também poderá ajudar.
 8. Boa sorte!
 
-## (2,0 ponto) Exercício 3 -  De 29/03/2021 até 11/04/2021:
+## (2,0 ponto) Exercício 3 -  De 26/03/2021 até 12/04/2021:
 ### [Vídeo explicando o exercício 3](#) (use a conta @alunos.ufersa)
 1 - Faça as funcionalidades CRUD do exercício 2 usando Spring.
 
 
 # Unidade 2 - Primeira parte do projeto da disciplina
-## (5,0 pontos) U2 - Exercícios -  De ??/??/2021 até ??/??/2021:
+## (5,0 pontos) U2 - Exercícios -  De 13/04/2021 até 10/05/2021:
 ### [Vídeo explicando a Unidade 2](#) (use a conta @alunos.ufersa)
 1 - Milestone 1 (User Story 1, User Story 2, User Story ?,...)
 
 
 # Unidade 3 - Segunda parte do projeto da disciplina
-## (5,0 pontos) U3 - Exercícios -  De ??/??/2021 até ??/??/2021:
+## (5,0 pontos) U3 - Exercícios -  De 11/05/2021 até 05/06/2021:
 ### [Vídeo explicando a Unidade 3](#) (use a conta @alunos.ufersa)
 1 - Milestone 2 (User Story ?, User Story ?+1, User Story ?+2,...)
