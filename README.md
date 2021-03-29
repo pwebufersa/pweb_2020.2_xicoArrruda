@@ -34,7 +34,7 @@
 0. Abra a pasta dos [instaladores](https://drive.google.com/drive/u/0/folders/1FMudNBdd-nMnYUmd7H1fZkAFrUE7st9S) no gDrive.
 1. Instale o OpenJDK, de acordo com o Vídeo 1.
 2. Descompacte o Spring Tool Suite (STS) em _c:_, da versão que você preferir.
-3. _Opcional_ - Se achar o STS inconvenientemente lerdo, use o vscode&maven, notepad++&maven, linux ou [Theia](https://theia-ide.org/) para codificar.
+3. _Opcional_ - Se achar o STS inconvenientemente lerdo, use o vscode&maven, notepad++&maven, linux ou [Theia](https://theia-ide.org/).
 4. Crie o projeto no [Spring Initializr](https://start.spring.io/) seguindo as [instruções](https://drive.google.com/file/d/1NCQrlFdPr0BmrZj4S2fqjGnRA5K7IeAi/view?usp=sharing), substituindo o nome do professor pelo seu nome.
 5. Descompacte o projeto criado no Spring Initializr na pasta onde está o seu repositório da disciplina.
 6. Execute o STS, colocando o workspace em uma pasta fácil de acessar.
