@@ -40,8 +40,8 @@
 6. Descompacte e importe o projeto criado no Spring Boot no STS (File->Import->Existing Maven Project). O exemplo criado pelo professor na aula está [aqui](https://drive.google.com/file/d/1NoicZ2x2LIoLsX3aDEvuvqIzOSX5DIPO/view?usp=sharing).
 7. Crie os arquivos .java e .html conforme [descrito na aula](https://drive.google.com/file/d/1-zUxMx21DvQ3JozxXpckyBYcuFUnUk9W/view?usp=sharing).
 8. Tome como base os [arquivos de configuração](https://drive.google.com/drive/folders/1LFCuowEnEkjHlN-oT-Y6UHLzHb9UK9Mk?usp=sharing) para ajustar seu projeto.
-9. Faça o R do CRUD conforme o Vídeo 1. Não esqueça de fazer commit e pull no GitHub.
-10. Faça o CUD conforme o Vídeo 2. Não esqueça de fazer commit e pull no GitHub.
+9. Faça o R do CRUD conforme o Vídeo 1. Não esqueça de fazer commit e push no GitHub.
+10. Faça o CUD conforme o Vídeo 2. Não esqueça de fazer commit e push no GitHub.
 
 
 # Unidade 2 - Primeira parte do projeto da disciplina
