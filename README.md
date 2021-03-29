@@ -40,7 +40,7 @@
 6. Execute o STS, colocando o workspace em uma pasta fácil de acessar.
 7. Importe o projeto (do passo 5) no STS (_File->Import->Existing Maven Project_). Se quiser, olhe o [exemplo](https://drive.google.com/file/d/1NoicZ2x2LIoLsX3aDEvuvqIzOSX5DIPO/view?usp=sharing) criado na aula.
 8. Crie os arquivos .java, .html e .css conforme [visto na aula](https://drive.google.com/file/d/1-zUxMx21DvQ3JozxXpckyBYcuFUnUk9W/view?usp=sharing).
-9.  Tome como base os [arquivos de configuração](https://drive.google.com/drive/folders/1LFCuowEnEkjHlN-oT-Y6UHLzHb9UK9Mk?usp=sharing) para ajustar seu projeto.
+9.  Tome como base os [arquivos de configuração](https://drive.google.com/drive/folders/1LFCuowEnEkjHlN-oT-Y6UHLzHb9UK9Mk?usp=sharing) para ajustar seu projeto. *Cuidado*, pois cada arquivo tem um local específico.
 10. Faça o R do CRUD conforme o Vídeo 1. Não esqueça de fazer commit e push no GitHub.
 11. Faça o CUD conforme o Vídeo 2. Não esqueça de fazer commit e push no GitHub.
 
