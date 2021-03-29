@@ -42,7 +42,7 @@
 8. Crie os arquivos .java, .html e .css conforme [visto na aula](https://drive.google.com/file/d/1-zUxMx21DvQ3JozxXpckyBYcuFUnUk9W/view?usp=sharing). Os arquivos do Exercício 2 servirão de base para esse passo.
 9.  Tome como base os [arquivos de configuração](https://drive.google.com/drive/folders/1LFCuowEnEkjHlN-oT-Y6UHLzHb9UK9Mk?usp=sharing) para ajustar seu projeto.
 10. Faça o R do CRUD conforme o Vídeo 1. Não esqueça de fazer _commit_ e _push_ no GitHub.
-11. Faça o CUD conforme o Vídeo 2. Não esqueça de fazer _commit_ e _push_ no GitHub.
+11. Faça o C,U,D conforme o Vídeo 2. Não esqueça de fazer _commit_ e _push_ no GitHub.
 
 
 # Unidade 2 - Primeira parte do projeto da disciplina
