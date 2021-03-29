@@ -33,13 +33,13 @@
 ### [Vídeo 2 - Explicando o Exercício 3 - C,U,D do CRUD](#) (use a conta @alunos.ufersa)
 0. Abra a pasta dos [instaladores](https://drive.google.com/drive/u/0/folders/1FMudNBdd-nMnYUmd7H1fZkAFrUE7st9S) no gDrive.
 1. Instale o OpenJDK, de acordo com o Vídeo 1.
-2. Descompacte o Spring Tool Suite (STS) em _c:_, da versão que você preferir.
+2. Descompacte o Spring Tool Suite (STS) em _c:_, na versão que você preferir.
 3. _Opcional_ - Se achar o STS inconvenientemente lerdo, use o vscode&maven, notepad++&maven, linux ou [Theia](https://theia-ide.org/).
 4. Crie o projeto no [Spring Initializr](https://start.spring.io/) seguindo as [instruções](https://drive.google.com/file/d/1NCQrlFdPr0BmrZj4S2fqjGnRA5K7IeAi/view?usp=sharing), substituindo o nome do professor pelo seu nome.
 5. Descompacte o projeto criado no Spring Initializr na pasta onde está o seu repositório da disciplina.
 6. Execute o STS, colocando o workspace em uma pasta fácil de acessar.
-7. Importe o projeto no STS (_File->Import->Existing Maven Project_). O exemplo criado na aula está [aqui](https://drive.google.com/file/d/1NoicZ2x2LIoLsX3aDEvuvqIzOSX5DIPO/view?usp=sharing).
-8. Crie os arquivos .java e .html conforme [descrito na aula](https://drive.google.com/file/d/1-zUxMx21DvQ3JozxXpckyBYcuFUnUk9W/view?usp=sharing).
+7. Importe o projeto (do passo 5) no STS (_File->Import->Existing Maven Project_). Se quiser, olhe o [exemplo](https://drive.google.com/file/d/1NoicZ2x2LIoLsX3aDEvuvqIzOSX5DIPO/view?usp=sharing) criado na aula.
+8. Crie os arquivos .java, .html e .css conforme [visto na aula](https://drive.google.com/file/d/1-zUxMx21DvQ3JozxXpckyBYcuFUnUk9W/view?usp=sharing).
 9.  Tome como base os [arquivos de configuração](https://drive.google.com/drive/folders/1LFCuowEnEkjHlN-oT-Y6UHLzHb9UK9Mk?usp=sharing) para ajustar seu projeto.
 10. Faça o R do CRUD conforme o Vídeo 1. Não esqueça de fazer commit e push no GitHub.
 11. Faça o CUD conforme o Vídeo 2. Não esqueça de fazer commit e push no GitHub.
