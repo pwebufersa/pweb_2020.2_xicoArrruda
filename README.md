@@ -29,8 +29,18 @@
 8. Boa sorte!
 
 ## (2,0 ponto) Exercício 3 -  De 26/03/2021 até 12/04/2021:
-### [Vídeo explicando o exercício 3](#) (use a conta @alunos.ufersa)
-1 - Faça as funcionalidades CRUD do exercício 2 usando Spring.
+### [Vídeo 1 - Explicando o Exercício 3 - R do CRUD](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p/view?usp=sharing) (use a conta @alunos.ufersa)
+### [Vídeo 2 - Explicando o Exercício 3 - C,U,D do CRUD](#) (use a conta @alunos.ufersa)
+0. Abra a pasta dos [instaladores](https://drive.google.com/drive/u/0/folders/1FMudNBdd-nMnYUmd7H1fZkAFrUE7st9S) no gDrive.
+1. Instale o AdoptJDK, de acordo com o Vídeo 1.
+2. Descompacte o Spring Tool Suite (STS) em _c:_ , da versão que você preferir.
+3. Opcional - Use o vscode&maven, notepad++&maven ou linux para codificar as funcionalidades, se achar o STS inconvenientemente lerdo.
+4. Crie o projeto com Spring Boot de acordo com as [instruções](https://drive.google.com/file/d/1NCQrlFdPr0BmrZj4S2fqjGnRA5K7IeAi/view?usp=sharing).
+5. Descompacte e importe o projeto no STS. O exemplo criado pelo professor está [aqui](https://drive.google.com/file/d/1NoicZ2x2LIoLsX3aDEvuvqIzOSX5DIPO/view?usp=sharing).
+5. Crie os arquivos .java e .html conforme [descrito na aula].
+6. Tome como base os [arquivos de configuração](https://drive.google.com/drive/folders/1LFCuowEnEkjHlN-oT-Y6UHLzHb9UK9Mk?usp=sharing) para ajustar seu projeto. Modifique onde for necessário.
+7. Faça o R do CRUD conforme o Vídeo 1. Não esqueça de fazer comitt e pull no GitHub.
+8. Faça o CUD conforme o Vídeo 2. Não esqueça de fazer comitt e pull no GitHub.
 
 
 # Unidade 2 - Primeira parte do projeto da disciplina
