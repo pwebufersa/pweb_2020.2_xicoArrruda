@@ -33,14 +33,15 @@
 ### [Vídeo 2 - Explicando o Exercício 3 - C,U,D do CRUD](#) (use a conta @alunos.ufersa)
 0. Abra a pasta dos [instaladores](https://drive.google.com/drive/u/0/folders/1FMudNBdd-nMnYUmd7H1fZkAFrUE7st9S) no gDrive.
 1. Instale o OpenJDK, de acordo com o Vídeo 1.
-2. Descompacte o Spring Tool Suite (STS) em _c:_ , da versão que você preferir.
-3. Opcional - Se achar o STS inconvenientemente lerdo, use o vscode&maven, notepad++&maven ou linux ou [Theia](https://theia-ide.org/) para codificar.
+2. Descompacte o Spring Tool Suite (STS) em _c:_, da versão que você preferir.
+3. Opcional - Se achar o STS inconvenientemente lerdo, use o vscode&maven, notepad++&maven, linux ou [Theia](https://theia-ide.org/) para codificar.
 4. Crie o projeto com Spring Boot de acordo com as [instruções](https://drive.google.com/file/d/1NCQrlFdPr0BmrZj4S2fqjGnRA5K7IeAi/view?usp=sharing).
-5. Descompacte e importe o projeto no STS. O exemplo criado pelo professor está [aqui](https://drive.google.com/file/d/1NoicZ2x2LIoLsX3aDEvuvqIzOSX5DIPO/view?usp=sharing).
-5. Crie os arquivos .java e .html conforme [descrito na aula].
-6. Tome como base os [arquivos de configuração](https://drive.google.com/drive/folders/1LFCuowEnEkjHlN-oT-Y6UHLzHb9UK9Mk?usp=sharing) para ajustar seu projeto. Modifique onde for necessário.
-7. Faça o R do CRUD conforme o Vídeo 1. Não esqueça de fazer comitt e pull no GitHub.
-8. Faça o CUD conforme o Vídeo 2. Não esqueça de fazer comitt e pull no GitHub.
+5. Execute o STS, colocando o workspace em uma pasta fácil de lemrar.
+6. Descompacte e importe o projeto criado no Spring Boot no STS (File->Import->Existing Maven Project). O exemplo criado pelo professor na aula está [aqui](https://drive.google.com/file/d/1NoicZ2x2LIoLsX3aDEvuvqIzOSX5DIPO/view?usp=sharing).
+7. Crie os arquivos .java e .html conforme [descrito na aula](https://drive.google.com/file/d/1-zUxMx21DvQ3JozxXpckyBYcuFUnUk9W/view?usp=sharing).
+8. Tome como base os [arquivos de configuração](https://drive.google.com/drive/folders/1LFCuowEnEkjHlN-oT-Y6UHLzHb9UK9Mk?usp=sharing) para ajustar seu projeto.
+9. Faça o R do CRUD conforme o Vídeo 1. Não esqueça de fazer commit e pull no GitHub.
+10. Faça o CUD conforme o Vídeo 2. Não esqueça de fazer commit e pull no GitHub.
 
 
 # Unidade 2 - Primeira parte do projeto da disciplina
