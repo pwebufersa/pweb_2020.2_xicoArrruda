@@ -35,7 +35,7 @@
 1. Instale o OpenJDK, de acordo com o Vídeo 1.
 2. Descompacte o Spring Tool Suite (STS) em _c:_, da versão que você preferir.
 3. _Opcional_ - Se achar o STS inconvenientemente lerdo, use o vscode&maven, notepad++&maven, linux ou [Theia](https://theia-ide.org/) para codificar.
-4. Crie o projeto com [Spring Initializr](https://start.spring.io/) de acordo com as [instruções](https://drive.google.com/file/d/1NCQrlFdPr0BmrZj4S2fqjGnRA5K7IeAi/view?usp=sharing), substituindo o nome do professor pelo seu nome.
+4. Crie o projeto no [Spring Initializr](https://start.spring.io/) seguindo as [instruções](https://drive.google.com/file/d/1NCQrlFdPr0BmrZj4S2fqjGnRA5K7IeAi/view?usp=sharing), substituindo o nome do professor pelo seu nome.
 5. Descompacte o projeto criado no Spring Initializr na pasta onde está o seu repositório da disciplina.
 6. Execute o STS, colocando o workspace em uma pasta fácil de acessar.
 7. Importe o projeto no STS (_File->Import->Existing Maven Project_). O exemplo criado na aula está [aqui](https://drive.google.com/file/d/1NoicZ2x2LIoLsX3aDEvuvqIzOSX5DIPO/view?usp=sharing).
