@@ -19,7 +19,7 @@
 
 ## (2,0 pontos) Exercício 2 - De 05/03/2021 até 22/03/2021:
 ### [Vídeo explicando o exercício 2](https://drive.google.com/file/d/1xhuvD5pK-Aa0L3l00svK3x6H4T-Br1V9/view?usp=sharing) (use a conta @alunos.ufersa)
-1. Opcional - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
+1. _Opcional_ - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
 2. O professor adicionou 3 pastas no seu repositório: exercicio1, exercicio2 e siteDeAjuda.
 3. Você deverá codificar, usando HTML e CSS, todo o site do exercício 2. São 8 páginas .html, 1 pasta de imagens e 1 pasta com o style.css
 4. O siteDeAjuda é um pontapé, contém os nomes de todos os arquivos que você deve criar e pode te ajudar a estilizar o site com CSS.
@@ -34,7 +34,7 @@
 0. Abra a pasta dos [instaladores](https://drive.google.com/drive/u/0/folders/1FMudNBdd-nMnYUmd7H1fZkAFrUE7st9S) no gDrive.
 1. Instale o OpenJDK, de acordo com o Vídeo 1.
 2. Descompacte o Spring Tool Suite (STS) em _c:_, da versão que você preferir.
-3. Opcional - Se achar o STS inconvenientemente lerdo, use o vscode&maven, notepad++&maven, linux ou [Theia](https://theia-ide.org/) para codificar.
+3. _Opcional_ - Se achar o STS inconvenientemente lerdo, use o vscode&maven, notepad++&maven, linux ou [Theia](https://theia-ide.org/) para codificar.
 4. Crie o projeto com [Spring Initializr](https://start.spring.io/) de acordo com as [instruções](https://drive.google.com/file/d/1NCQrlFdPr0BmrZj4S2fqjGnRA5K7IeAi/view?usp=sharing).
 5. Execute o STS, colocando o workspace em uma pasta fácil de lemrar.
 6. Descompacte e importe o projeto criado no Spring Boot no STS (File->Import->Existing Maven Project). O exemplo criado pelo professor na aula está [aqui](https://drive.google.com/file/d/1NoicZ2x2LIoLsX3aDEvuvqIzOSX5DIPO/view?usp=sharing).
