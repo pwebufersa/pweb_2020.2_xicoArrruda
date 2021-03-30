@@ -16,7 +16,6 @@
 10. Coloque o seu código secreto no site como dado "meta" no head do index.html. O código secreto foi enviado para seu e-Mail institucional.
 11. Faça o commit do site e sincronize-o com o repositório remoto.
 
-
 ## (2,0 pontos) U1 - Exercício 2 - De 05/03/2021 até 22/03/2021:
 ### [Vídeo explicando o exercício 2](https://drive.google.com/file/d/1xhuvD5pK-Aa0L3l00svK3x6H4T-Br1V9/view?usp=sharing) (use a conta @alunos.ufersa)
 1. _Opcional_ - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
@@ -44,14 +43,16 @@
 10. Faça o R do CRUD conforme o Vídeo 1. Não esqueça de fazer _commit_ e _push_ no GitHub.
 11. Faça o C,U,D conforme o Vídeo 2. Não esqueça de fazer _commit_ e _push_ no GitHub.
 
-
 # Unidade 2 - Projeto - Milestone 1
 ## (5,0 pontos) U2 - Exercício X - De 13/04/2021 até 10/05/2021:
 ### [Vídeo explicando a unidade 2](#) (use a conta @alunos.ufersa)
-1 - Milestone 1 = User Story 1, User Story 2, User Story ?,...
-
+1. Milestone 1 = User Story 1
+2. Milestone 1 = User Story 2
+3. Milestone 1 = User Story ?
 
 # Unidade 3 - Projeto - Milestone 2
 ## (5,0 pontos) U3 - Exercício X - De 11/05/2021 até 05/06/2021:
 ### [Vídeo explicando a unidade 3](#) (use a conta @alunos.ufersa)
-1 - Milestone 2 = User Story ?, User Story ?+1, User Story ?+2,...
+1. Milestone 2 = User Story ?
+2. Milestone 2 = User Story ?
+3. Milestone 2 = User Story ?
