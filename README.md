@@ -45,13 +45,13 @@
 11. Faça o C,U,D conforme o Vídeo 2. Não esqueça de fazer _commit_ e _push_ no GitHub.
 
 
-# Unidade 2 - Primeira parte do projeto da disciplina
+# Unidade 2 - Projeto - Milestone 1
 ## (5,0 pontos) U2 - Exercício X - De 13/04/2021 até 10/05/2021:
 ### [Vídeo explicando a Unidade 2](#) (use a conta @alunos.ufersa)
-1 - Milestone 1 (User Story 1, User Story 2, User Story ?,...)
+1 - Milestone 1 = User Story 1, User Story 2, User Story ?,...
 
 
-# Unidade 3 - Segunda parte do projeto da disciplina
+# Unidade 3 - Projeto - Milestone 2
 ## (5,0 pontos) U3 - Exercício X - De 11/05/2021 até 05/06/2021:
 ### [Vídeo explicando a Unidade 3](#) (use a conta @alunos.ufersa)
-1 - Milestone 2 (User Story ?, User Story ?+1, User Story ?+2,...)
+1 - Milestone 2 = User Story ?, User Story ?+1, User Story ?+2,...
