@@ -1,4 +1,4 @@
-# Repositório PWeb 2020.2
+# Programação WEB - 2020.2 - UFERSA Angicos
 
 # Unidade 1 - CRUD do Cadastro de Pessoas
 ## (1,0 ponto) U1 - Exercício 1 - De 26/02/2021 até 08/03/2020:
