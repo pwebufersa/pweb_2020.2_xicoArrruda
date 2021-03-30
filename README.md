@@ -30,7 +30,7 @@
 
 ## (2,0 ponto) Exercício 3 -  De 26/03/2021 até 12/04/2021:
 ### [Vídeo 1 - Explicando o Exercício 3 - R do CRUD](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p/view?usp=sharing) (use a conta @alunos.ufersa)
-### [Vídeo 2 - Explicando o Exercício 3 - C,U,D do CRUD](#) (use a conta @alunos.ufersa)
+### [Vídeo 2 - Explicando o Exercício 3 - C,U,D do CRUD](https://drive.google.com/file/d/1MRpWvcjpqkehnb9pfSC1Jj38eeOylg_0/view?usp=sharing) (use a conta @alunos.ufersa)
 0. Abra a pasta dos [instaladores](https://drive.google.com/drive/u/0/folders/1FMudNBdd-nMnYUmd7H1fZkAFrUE7st9S) no gDrive.
 1. Instale o OpenJDK, de acordo com o Vídeo 1.
 2. Descompacte o Spring Tool Suite (STS) em _c:_, na versão que você preferir.
