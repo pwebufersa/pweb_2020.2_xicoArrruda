@@ -1,6 +1,6 @@
 # Programação WEB - 2020.2 - UFERSA Angicos
 
-# Unidade 1 - CRUD do Cadastro de Pessoas
+# Unidade 1 - CRUD de Pessoas
 ## (1,0 ponto) U1 - Exercício 1 - De 26/02/2021 até 08/03/2020:
 ### [Vídeo explicando o exercício 1](https://drive.google.com/file/d/177qYyERrz854K49x97Y9arLVTyPMPgU6/view?usp=sharing) (use a conta @alunos.ufersa)
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
@@ -17,7 +17,7 @@
 11. Faça o commit do site e sincronize-o com o repositório remoto.
 
 
-## (2,0 pontos) Exercício 2 - De 05/03/2021 até 22/03/2021:
+## (2,0 pontos) U1 - Exercício 2 - De 05/03/2021 até 22/03/2021:
 ### [Vídeo explicando o exercício 2](https://drive.google.com/file/d/1xhuvD5pK-Aa0L3l00svK3x6H4T-Br1V9/view?usp=sharing) (use a conta @alunos.ufersa)
 1. _Opcional_ - Adicione a conta **monitoriaPWeb** como colaborador do seu repositório.
 2. O professor adicionou 3 pastas no seu repositório: exercicio1, exercicio2 e siteDeAjuda.
@@ -28,7 +28,7 @@
 7. Conforme for avançando, faça o commit do site e sincronize-o com o repositório remoto. O monitor também poderá ajudar.
 8. Boa sorte!
 
-## (2,0 ponto) Exercício 3 -  De 26/03/2021 até 12/04/2021:
+## (2,0 ponto) U1 -  Exercício 3 -  De 26/03/2021 até 12/04/2021:
 ### [Vídeo 1 - Explicando o Exercício 3 - R do CRUD](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p/view?usp=sharing) (use a conta @alunos.ufersa)
 ### [Vídeo 2 - Explicando o Exercício 3 - C,U,D do CRUD](https://drive.google.com/file/d/1MRpWvcjpqkehnb9pfSC1Jj38eeOylg_0/view?usp=sharing) (use a conta @alunos.ufersa)
 0. Abra a pasta dos [instaladores](https://drive.google.com/drive/u/0/folders/1FMudNBdd-nMnYUmd7H1fZkAFrUE7st9S) no gDrive.
@@ -46,12 +46,12 @@
 
 
 # Unidade 2 - Primeira parte do projeto da disciplina
-## (5,0 pontos) U2 - Exercícios -  De 13/04/2021 até 10/05/2021:
+## (5,0 pontos) U2 - Exercício X - De 13/04/2021 até 10/05/2021:
 ### [Vídeo explicando a Unidade 2](#) (use a conta @alunos.ufersa)
 1 - Milestone 1 (User Story 1, User Story 2, User Story ?,...)
 
 
 # Unidade 3 - Segunda parte do projeto da disciplina
-## (5,0 pontos) U3 - Exercícios -  De 11/05/2021 até 05/06/2021:
+## (5,0 pontos) U3 - Exercício X - De 11/05/2021 até 05/06/2021:
 ### [Vídeo explicando a Unidade 3](#) (use a conta @alunos.ufersa)
 1 - Milestone 2 (User Story ?, User Story ?+1, User Story ?+2,...)
