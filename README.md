@@ -32,7 +32,7 @@
 ### [Vídeo 2 explicando o exercício 3 (c,u,d do crud)](https://drive.google.com/file/d/1MRpWvcjpqkehnb9pfSC1Jj38eeOylg_0/view?usp=sharing) (use a conta @alunos.ufersa)
 0. Abra a pasta dos [instaladores](https://drive.google.com/drive/u/0/folders/1FMudNBdd-nMnYUmd7H1fZkAFrUE7st9S) no gDrive.
 1. Instale o [OpenJDK 15](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot), de acordo com o Vídeo 1.
-2. Descompacte o Spring Tool Suite (STS for Eclipse) em _c:_, na versão que você preferir.
+2. Descompacte o Spring Tool Suite (STS for Eclipse) em _c:_, na versão que você preferir. Se usar o STS 4.0 e tiver com erro no pom.xml, veja [aqui](https://stackoverflow.com/questions/56212981/eclipse-showing-maven-configuration-problem-unknown/56214505) a solução.
 3. _Opcional_ - Se achar o STS inconvenientemente lerdo, use o VSCode&[maven](https://maven.apache.org/), Notepad++&[maven](https://maven.apache.org/), [Linux](https://kubuntu.org/) ou [Theia](https://theia-ide.org/).
 4. Crie o projeto no [Spring Initializr](https://start.spring.io/) seguindo as [instruções](https://drive.google.com/file/d/1NCQrlFdPr0BmrZj4S2fqjGnRA5K7IeAi/view?usp=sharing), substituindo o nome do professor pelo seu nome.
 5. Descompacte o projeto criado no Spring Initializr na pasta onde está o seu repositório da disciplina.
