@@ -44,8 +44,9 @@
 11. Faça o C,U,D conforme o Vídeo 2. Não esqueça de fazer _commit_ e _push_ no GitHub.
 
 # Unidade 2 e Unidade 3 
-##[O projeto](#)
-##[Sugestões de interfaces para o projeto](#)
+[O projeto](#)
+
+[Sugestões de interfaces para o projeto](#)
 
 ## (5,0 pontos) Milestone 1 - De 13/04/2021 até 10/05/2021:
 ### [Vídeo explicando a unidade 2](#) (use a conta @alunos.ufersa)
@@ -54,7 +55,6 @@
 3. Milestone 1 = User Story 3 - Entregar em xx/04/2021.
 4. Milestone 1 = User Story 4 - Entregar em xx/05/2021.
 
-# Unidade 3 - Projeto
 ## (5,0 pontos) Milestone 2 - De 11/05/2021 até 05/06/2021:
 ### [Vídeo explicando a unidade 3](#) (use a conta @alunos.ufersa)
 1. Milestone 2 = User story *?* - Entregar em xx/05/2021?
