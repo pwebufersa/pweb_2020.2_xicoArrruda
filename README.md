@@ -27,7 +27,7 @@
 7. Conforme for avançando, faça o commit do site e sincronize-o com o repositório remoto. O monitor também poderá ajudar.
 8. Boa sorte!
 
-## (2,0 ponto) U1 -  Exercício 3 -  De 26/03/2021 até 12/04/2021:
+## (2,0 pontos) U1 -  Exercício 3 -  De 26/03/2021 até 12/04/2021:
 ### [Vídeo 1 explicando o exercício 3 (r do crud)](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p/view?usp=sharing) (use a conta @alunos.ufersa)
 ### [Vídeo 2 explicando o exercício 3 (c,u,d do crud)](https://drive.google.com/file/d/1MRpWvcjpqkehnb9pfSC1Jj38eeOylg_0/view?usp=sharing) (use a conta @alunos.ufersa)
 0. Abra a pasta dos [instaladores](https://drive.google.com/drive/u/0/folders/1FMudNBdd-nMnYUmd7H1fZkAFrUE7st9S) no gDrive.
@@ -43,16 +43,21 @@
 10. Faça o R do CRUD conforme o Vídeo 1. Não esqueça de fazer _commit_ e _push_ no GitHub.
 11. Faça o C,U,D conforme o Vídeo 2. Não esqueça de fazer _commit_ e _push_ no GitHub.
 
-# Unidade 2 - Projeto - Milestone 1
-## (5,0 pontos) U2 - Exercício X - De 13/04/2021 até 10/05/2021:
-### [Vídeo explicando a unidade 2](#) (use a conta @alunos.ufersa)
-1. Milestone 1 = User Story 1
-2. Milestone 1 = User Story 2
-3. Milestone 1 = User Story ?
+# Unidade 2 e Unidade 3 - [O projeto](#) (use a conta @alunos.ufersa)
 
-# Unidade 3 - Projeto - Milestone 2
-## (5,0 pontos) U3 - Exercício X - De 11/05/2021 até 05/06/2021:
+## (5,0 pontos) Milestone 1 - De 13/04/2021 até 10/05/2021:
+### [Vídeo explicando a unidade 2](#) (use a conta @alunos.ufersa)
+1. Milestone 1 = User Story 1 - Entregar em xx/04/2021.
+2. Milestone 1 = User Story 2 - Entregar em xx/04/2021.
+3. Milestone 1 = User Story 3 - Entregar em xx/04/2021.
+4. Milestone 1 = User Story 4 - Entregar em xx/05/2021.
+
+# Unidade 3 - Projeto
+## (5,0 pontos) Milestone 2 - De 11/05/2021 até 05/06/2021:
 ### [Vídeo explicando a unidade 3](#) (use a conta @alunos.ufersa)
-1. Milestone 2 = User Story ?
-2. Milestone 2 = User Story ?
-3. Milestone 2 = User Story ?
+1. Milestone 2 = User story *?* - Entregar em xx/05/2021?
+2. Milestone 2 = User Story *?* - Entregar em xx/05/2021?
+3. Milestone 2 = User Story *?* - Entregar em xx/05/2021?
+4. Milestone 2 = User Story *?* - Entregar em xx/06/2021?
+
+*?* = Você deve escolher entre as 14 User Stories disponíveis.
