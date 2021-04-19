@@ -50,15 +50,13 @@
 ## [Sugestão de interface](https://drive.google.com/file/d/1eCtiolE4sWO6Nl-Rb3JTbIy3QYQ7A1LF/view?usp=sharing)
 
 ## (5,0 pontos) Milestone 1 - De 13/04/2021 até 10/05/2021:
-1. Milestone 1 = User Story 1 - Entregar em xx/04/2021.
-2. Milestone 1 = User Story 2 - Entregar em xx/04/2021.
-3. Milestone 1 = User Story 3 - Entregar em xx/04/2021.
-4. Milestone 1 = User Story 4 - Entregar em xx/05/2021.
+1. Milestone 1 = User Story 1 e 2 = Entregar até 26/04/2021.
+2. Milestone 1 = User Story 3 e 4 = Entregar até 10/05/2021.
 
 ## (5,0 pontos) Milestone 2 - De 11/05/2021 até 05/06/2021:
-1. Milestone 2 = User story *?* - Entregar em xx/05/2021?
-2. Milestone 2 = User Story *?* - Entregar em xx/05/2021?
-3. Milestone 2 = User Story *?* - Entregar em xx/05/2021?
-4. Milestone 2 = User Story *?* - Entregar em xx/06/2021?
+1. Milestone 2 = User story *?* = Entregar até 17/05/2021.
+2. Milestone 2 = User Story *?* = Entregar até 24/05/2021.
+3. Milestone 2 = User Story *?* = Entregar até 31/05/2021.
+4. Milestone 2 = User Story *?* = Entregar até 07/06/2021.
 
 *?* = Você deve escolher entre as 14 User Stories disponíveis.
