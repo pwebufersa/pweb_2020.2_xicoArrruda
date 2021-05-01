@@ -1,15 +1,8 @@
 //https://www.treinaweb.com.br/blog/documentando-uma-api-spring-boot-com-o-swagger/
+//https://stackoverflow.com/questions/62773219/suddenly-springfox-swagger-3-0-is-not-working-with-spring-webflux
+//http://localhost:8080/swagger-ui/index.html
 	
 package br.com.cliente.api.config;
-
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
-
-import springfox.documentation.builders.PathSelectors;
-import springfox.documentation.builders.RequestHandlerSelectors;
-import springfox.documentation.spi.DocumentationType;
-import springfox.documentation.spring.web.plugins.Docket;
-import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
