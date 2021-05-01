@@ -1,6 +1,11 @@
-//https://www.treinaweb.com.br/blog/documentando-uma-api-spring-boot-com-o-swagger/
-//https://stackoverflow.com/questions/62773219/suddenly-springfox-swagger-3-0-is-not-working-with-spring-webflux
-//http://localhost:8080/swagger-ui/index.html
+/*
+Mudança na versão 3.0.0 do SpringFox:
+Acesse a documentação da API por esse link: http://localhost:8080/swagger-ui/index.html
+
+Detalhes aqui:
+https://www.treinaweb.com.br/blog/documentando-uma-api-spring-boot-com-o-swagger/
+https://stackoverflow.com/questions/62773219/suddenly-springfox-swagger-3-0-is-not-working-with-spring-webflux
+*/
 	
 package br.com.cliente.api.config;
 
