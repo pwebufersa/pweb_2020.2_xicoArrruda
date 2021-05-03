@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+	<title>Lista de pessoas sem formatação</title>
+</head>
+
+<body>
+	<h1>Lista de pessoas sem formatação</h1>
+	<table border=1>
+		<thead>
+			<tr>
+			<th>id</th>
+			<th>Nome Completo</th>
+			<th>Data de Nascimento</th>
+			<th>e-Mail</th>
+			<th>Gênero</th>
+			<th>Editar</th>
+			<th>Remover</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr th:each="pessoa: ${pessoas}">
+				<td th:text="${pessoa.id}"></td>
+				<td th:text="${pessoa.nome}"></td>
+				<td>
+					<a th:href="'mailto:'+${pessoa.email}"th:text="${pessoa.email}"></a>
+				</td>
+				<td th:text="${#temporals.format(pessoa.dataNascimento,'dd/MM/yyyy')}"></td>
+				<td th:text="${pessoa.genero}"></td>
+				<td>
+					<a th:href="@{/editar/{id}(id=${pessoa.id})}">Editar</a>
+				</td>
+                <td>
+                	<a th:href="@{/remover/{id}(id=${pessoa.id})}">Remover</a>
+                </td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
