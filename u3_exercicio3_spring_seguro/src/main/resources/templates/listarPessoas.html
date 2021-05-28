@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta codigoSemana3="forYourEyesOnly">
+    <link th:href="@{/public/favicon.ico}" rel="icon" type="image/x-icon"/>
+    <link th:href="@{/css/style.css}" rel="stylesheet"/>
+    <title>Listar Pessoas - Com Spring</title>
+</head>
+<body>
+    <ul>
+        <li><a href="/">Início</a></li>
+		<hr />
+		<li><a href="/adicionarPessoa">Adicionar pessoa</a></li>
+        <li><a href="/listarPessoas" class="active">Listar pessoas</a></li>
+		<hr />
+        <li><a href="/public/noticias.html">Notícias</a></li>
+		<li><a href="/public/sobre.html">Sobre</a></li>
+        <li><a href="/public/contato.html">Contato</a></li>
+    </ul>
+    <div style="margin-left:25%;padding:1px 16px;height:1000px;">
+		<div style="text-align: center;">
+			<h1>Lista de pessoas</h1>
+		</div>
+		<table>
+			<thead>
+				<tr>
+				<th>id</th>
+				<th>Nome Completo</th>
+				<th>Data de Nascimento</th>
+				<th>e-Mail</th>
+				<th>Gênero</th>
+				<th>Editar</th>
+				<th>Remover</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr th:each="umaPessoa: ${todasAsPessoas}">
+					<td th:text="${umaPessoa.id}"></td>
+					<td th:text="${umaPessoa.nome}"></td>
+					<td>
+						<a th:href="'mailto:'+${umaPessoa.email}"th:text="${umaPessoa.email}"></a>
+					</td>
+					<td th:text="${#temporals.format(umaPessoa.dataNascimento,'dd/MM/yyyy')}"></td>
+					<td th:text="${umaPessoa.genero}"></td>
+					<td>
+						<a th:href="@{/editar/{id}(id=${umaPessoa.id})}">Editar</a>
+					</td>
+	                <td>
+	                	<a th:href="@{/remover/{id}(id=${umaPessoa.id})}">Remover</a>
+	                </td>
+				</tr>
+			</tbody>
+		</table>
+</body>
+</html>

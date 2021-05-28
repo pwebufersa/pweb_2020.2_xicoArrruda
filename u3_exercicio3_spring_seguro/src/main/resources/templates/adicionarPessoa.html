@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta codigoSemana3="forYourEyesOnly">
+    <link th:href="@{/css/style.css}" rel="stylesheet"/>
+    <title>Adicionar Pessoa - Com Spring</title>
+</head>
+<body>
+    <ul>
+        <li><a href="/">Início</a></li>
+		<hr />
+		<li><a href="/adicionarPessoa" class="active">Adicionar pessoa</a></li>
+        <li><a href="/listarPessoas">Listar pessoas</a></li>
+		<hr />
+        <li><a href="/public/noticias.html">Notícias</a></li>
+		<li><a href="/public/sobre.html">Sobre</a></li>
+        <li><a href="/public/contato.html">Contato</a></li>
+    </ul>
+    <div style="margin-left:25%;padding:1px 16px;height:1000px;">
+	<h1>Adicionar pessoa:</h1>
+	<form
+		method="POST"
+		th:object="${pessoa}"
+		th:action="@{/adicionarPessoa}">
+			<p>
+				Nome completo *:
+				<input type="text" placeholder="Seu nome completo." th:field="*{nome}" required />
+			</p>
+			<p>
+				Data de nascimento *:
+				<input type="date" placeholder="dd/mm/aaaa" th:field="*{dataNascimento}" required />
+			</p>
+			<p>
+				e-Mail *:
+				<input type="text" placeholder="nome@dominio.com" th:field="*{email}" required />
+			</p>
+			
+			<p>Gênero *:</p>
+			<p>
+				<input type="radio" name="genero" value="Masculino" th:field="*{genero}" required />Masculino
+			</p> 
+			<p>
+				<input type="radio" name="genero" value="Feminino" th:field="*{genero}" required />Feminino
+			</p>
+			<p>
+				<input type="radio" name="genero" value="Não Informado" th:field="*{genero}" required />Não informar
+			</p> 
+			
+			<input type="reset" class="button button12Px" value="Limpar">
+			<input type="submit" class="button button12Px" value="Adicionar!">
+	</form>
+	<p>* Campo obrigatório</p>
+	</div>
+</body>
+</html>
+

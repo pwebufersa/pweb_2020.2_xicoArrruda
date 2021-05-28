@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Listagem de Pessoas com Thymeleaf e Bootstrap">
+    <meta name="author" content="Xico">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link href="https://getbootstrap.com/docs/4.0/examples/signin/signin.css" rel="stylesheet" crossorigin="anonymous"/>
+	<link th:href="@{/css/style.css}" rel="stylesheet"/>
+	<title>Lista de pessoas com Bootstrap</title>
+</head>
+
+<body class="text-center">
+	<div class="page-header">
+        <h1>Lista de pessoas com bootstrap</h1>
+    </div>
+	<table>
+		<thead>
+			<tr>
+				<th>id</th>
+				<th>Nome</th>
+				<th>e-Mail</th>
+				<th>Data de Nascimento</th>
+				<th>Editar</th>
+				<th>Remover</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr th:each="pessoa: ${pessoas}">
+				<td th:text="${pessoa.id}"></td>
+				<td th:text="${pessoa.nome}"></td>
+				<td>
+					<a th:href="'mailto:'+${pessoa.email}"th:text="${pessoa.email}"></a>
+				</td>
+				<td th:text="${#temporals.format(pessoa.dataNascimento,'dd/MM/yyyy')}"></td>
+				<td>
+					<a th:href="@{/editar/{id}(id=${pessoa.id})}">Editar</a>
+				</td>
+                <td>
+                	<a th:href="@{/remover/{id}(id=${pessoa.id})}">Remover</a>
+                </td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
